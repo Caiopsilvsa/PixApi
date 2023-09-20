@@ -1,3 +1,3 @@
 # PixApi
-API que simula pagamento via Pix (Feito com .NET API)
+API que simula pagamentos via Pix (Feito com .NET API)
 
